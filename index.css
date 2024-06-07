@@ -1,1 +1,17 @@
-/* Write your code here. */
+.background {
+  background-color: #0f172a;
+  color: #f8fafc;
+  font-family: Roboto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  font-size: 38px;
+  font-family: bold;
+}
+.sub-back {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
